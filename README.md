@@ -1,8 +1,6 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # Hello Microverse
 
-> The objective here is to ace all of the apparatuses and best hones i learned around in past steps. I'll be utilizing them in all Microverse ventures and most likely in your future work as well, so it is vital to know them!
+> The purpose of this project is just to show how far I'am in using Github tools by creating a hello Microverse project with linters.
 
 ![screenshot](./ScreenShot.png)
 
@@ -15,22 +13,22 @@ My first project with microverse
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://goliviernation.github.io/hellomicroverse/)
 
 ## Getting Started
 
 - clone the repository by running\
-   ``
+   `https://github.com/GOlivierNation/hellomicroverse.git`
 - navigate to the folder\
    `cd Hello-Microverse`
 
 ## Authors
 
-👤 **Author**
+👤 **Olivier**
 
-- GitHub: [@githubhandle]()
-- Twitter: [@twitterhandle]()
-- LinkedIn: [LinkedIn]()
+- GitHub: [@githubhandle](https://github.com/GOlivierNation)
+- Twitter: [@twitterhandle](https://twitter.com/Golivier_Nation)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/olivier-gasominali-866962108/)
 
 ## 🤝 Contributing
 
