@@ -2,7 +2,7 @@
 
 > The purpose of this project is just to show how far I'am in using Github tools by creating a hello Microverse project with linters.
 
-![screenshot](ScreenShot.png)
+![screenshot](./Screenshot.png)
 
 My first project with microverse
 
