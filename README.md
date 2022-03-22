@@ -20,7 +20,7 @@ My first project with microverse
 - clone the repository by running\
    `https://github.com/GOlivierNation/hellomicroverse.git`
 - navigate to the folder\
-   `cd Hello-Microverse`
+   `cd hellomicroverse`
 
 ## Authors
 
